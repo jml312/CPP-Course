@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/joshualevy/CLionProjects/Challenge3/challenge3.h
+iostream
+-
+
+/Users/joshualevy/CLionProjects/Challenge3/main.cpp
+iostream
+-
+sstream
+-
+challenge3.h
+/Users/joshualevy/CLionProjects/Challenge3/challenge3.h
+

@@ -1,0 +1,3 @@
+/Users/joshualevy/CLionProjects/C HW1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/joshualevy/CLionProjects/C HW1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/joshualevy/CLionProjects/C HW1/cmake-build-debug/CMakeFiles/C_HW1.dir

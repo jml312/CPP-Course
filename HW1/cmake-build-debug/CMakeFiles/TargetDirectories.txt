@@ -1,0 +1,14 @@
+/Users/joshualevy/CLionProjects/HW1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/joshualevy/CLionProjects/HW1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/joshualevy/CLionProjects/HW1/cmake-build-debug/HW1Q1/CMakeFiles/rebuild_cache.dir
+/Users/joshualevy/CLionProjects/HW1/cmake-build-debug/HW1Q1/CMakeFiles/edit_cache.dir
+/Users/joshualevy/CLionProjects/HW1/cmake-build-debug/HW1Q1/CMakeFiles/HW1Q1.dir
+/Users/joshualevy/CLionProjects/HW1/cmake-build-debug/HW1Q2/CMakeFiles/rebuild_cache.dir
+/Users/joshualevy/CLionProjects/HW1/cmake-build-debug/HW1Q2/CMakeFiles/edit_cache.dir
+/Users/joshualevy/CLionProjects/HW1/cmake-build-debug/HW1Q2/CMakeFiles/HW1Q2.dir
+/Users/joshualevy/CLionProjects/HW1/cmake-build-debug/HW1Q3/CMakeFiles/rebuild_cache.dir
+/Users/joshualevy/CLionProjects/HW1/cmake-build-debug/HW1Q3/CMakeFiles/edit_cache.dir
+/Users/joshualevy/CLionProjects/HW1/cmake-build-debug/HW1Q3/CMakeFiles/HW1Q3.dir
+/Users/joshualevy/CLionProjects/HW1/cmake-build-debug/HW1Q4/CMakeFiles/rebuild_cache.dir
+/Users/joshualevy/CLionProjects/HW1/cmake-build-debug/HW1Q4/CMakeFiles/edit_cache.dir
+/Users/joshualevy/CLionProjects/HW1/cmake-build-debug/HW1Q4/CMakeFiles/HW1Q4.dir

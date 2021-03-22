@@ -1,0 +1,6 @@
+CMAKE_MINIMUM_REQUIRED(VERSION 3.11)
+project(HW2)
+add_subdirectory(HW2Q1)
+add_subdirectory(HW2Q2)
+add_subdirectory(HW2Q3)
+add_subdirectory(HW2Q4)
